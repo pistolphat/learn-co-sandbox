@@ -7,4 +7,5 @@ def batch_badge_creater
   puts "#{names}"
 end
 
+def assign_rooms
 
