@@ -4,7 +4,7 @@ end
 
 def batch_badge_creater(name)
   name = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
-  puts "name[0], name[1]"
+  puts "name[0], name[1],name[2], name[3],name[4], name[5],name[6], name[1]"
 end
 
 
