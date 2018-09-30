@@ -18,6 +18,6 @@ puts "Hello, #{names}! You'll be assigned to room #{room_number}"
 end
 
 def printer
-puts 
+puts "${def batch_bagde_creater)"
 
 
