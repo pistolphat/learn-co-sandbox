@@ -4,4 +4,7 @@ end
 
 def batch_badge_creater
   names = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
-  puts "These are the 
+  puts "#{names}"
+end
+
+
