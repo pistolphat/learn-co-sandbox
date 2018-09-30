@@ -9,3 +9,4 @@ end
 
 def assign_rooms
 
+puts "Hello, #{names}! You'll be assigned to room
