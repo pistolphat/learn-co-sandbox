@@ -3,4 +3,4 @@ def badge_maker
 end
 
 def batch_badge_creater
-  names = ["Edsger", "Ada", "Charles", Alan]
+  names = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
