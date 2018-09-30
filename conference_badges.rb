@@ -11,9 +11,9 @@ end
 
 
 
-def assign_rooms
-  
-
+def assign_rooms(room_number)
+  room_number = ["1", "2", "3", "4", "5", "6", "7"]
+  room_number.each do |room_number|
 
 puts "Hello, #{names}! You'll be assigned to room #{numbers}"
 end
