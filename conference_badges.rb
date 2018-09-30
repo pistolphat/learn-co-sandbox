@@ -18,5 +18,3 @@ def printer
 puts "#{def batch_bagde_creater}"
 puts "#{def assign_rooms}"
 end
-
-
